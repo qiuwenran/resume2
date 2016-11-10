@@ -1,0 +1,15 @@
+#header{
+	height: 6%;
+	background: pink;
+}
+#header ul{
+	display: flex;
+	justify-content: space-between;
+}
+#header ul li{
+	height: 100%
+}
+#header ul li input{
+	line-height: 100%;
+	margin-top: 15%;
+}
